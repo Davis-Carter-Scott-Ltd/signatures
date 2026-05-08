@@ -1,2 +1,2 @@
 # signatures
-Avatars for email signature files
+"This repository contains internal company assets for email signatures. All rights reserved by Davis, Carter, Scott Ltd"
