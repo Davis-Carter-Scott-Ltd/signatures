@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:MaryKate Fleury
+N:Fleury;Mary Kate;;;
+ORG:Davis, Carter, Scott Ltd
+TITLE:Designer | Project Manager
+EMAIL;TYPE=WORK:mkfleury@dcsdesign.com
+TEL;TYPE=WORK,VOICE:+1 703 556 9275
+item1.TEL;TYPE=WORK,VOICE:+1 571 620 7832
+item1.X-ABLabel:Direct
+ADR;TYPE=WORK:;;8614 Westwood Center Drive;Tysons;VA;22182;USA
+URL:dcsdesign.com
+END:VCARD

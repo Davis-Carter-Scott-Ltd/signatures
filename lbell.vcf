@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Lisa Bell
+N:Bell;Lisa;;;
+ORG:Davis, Carter, Scott Ltd
+TITLE:Business Development
+EMAIL;TYPE=WORK:lbell@dcsdesign.com
+TEL;TYPE=WORK,VOICE:+1 703 556 9275
+TEL;TYPE=CELL,VOICE:+1 202 253 8488
+ADR;TYPE=WORK:;;8614 Westwood Center Drive;Tysons;VA;22182;USA
+URL:dcsdesign.com
+END:VCARD
