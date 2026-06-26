@@ -6,7 +6,7 @@ ORG:Davis, Carter, Scott Ltd
 TITLE:Vice President | Associate Principal
 EMAIL;TYPE=WORK:jchoi@dcsdesign.com
 TEL;TYPE=WORK,VOICE:+1 703 556 9275
-item1.TEL;TYPE=WORK,VOICE:+1 571 620 7820
+item1.TEL;TYPE=DIRECT,VOICE:+1 571 620 7820
 item1.X-ABLabel:Direct
 TEL;TYPE=CELL,VOICE:+1 703 424 0351
 ADR;TYPE=WORK:;;8614 Westwood Center Drive;Tysons;VA;22182;USA

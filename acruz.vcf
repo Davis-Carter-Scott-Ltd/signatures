@@ -5,7 +5,7 @@ N:Cruz;Andrew;;;
 ORG:Davis, Carter, Scott Ltd
 EMAIL;TYPE=WORK:acruz@dcsdesign.com
 TEL;TYPE=WORK,VOICE:+1 703 556 9275
-item1.TEL;TYPE=WORK,VOICE:+1 571 620 7882
+item1.TEL;TYPE=DIRECT,VOICE:+1 571 620 7882
 item1.X-ABLabel:Direct
 ADR;TYPE=WORK:;;8614 Westwood Center Drive;Tysons;VA;22182;USA
 URL:dcsdesign.com
