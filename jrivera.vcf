@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jay Rivera
+N:Rivera;Jay;;;
+ORG:Davis, Carter, Scott Ltd
+TITLE:Construction Administration
+EMAIL;TYPE=WORK:jrivera@dcsdesign.com
+TEL;TYPE=WORK,VOICE:+1 703 556 9275
+item1.TEL;TYPE=DIRECT,VOICE:+1 571 620 7892
+item1.X-ABLabel:Direct
+ADR;TYPE=WORK:;;8614 Westwood Center Drive;Tysons;VA;22182;USA
+URL:dcsdesign.com
+END:VCARD
